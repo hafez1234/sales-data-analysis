@@ -39,6 +39,6 @@ This project demonstrates a complete workflow for data analysis using Python and
 ## 📌 Author
 
 **Hafez Ibrahim**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/hafez1234)
 
 Licensed for educational and demo use.
